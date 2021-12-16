@@ -1,0 +1,1 @@
+import hasSum from "../Game01";
